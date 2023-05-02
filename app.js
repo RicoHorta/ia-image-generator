@@ -1,5 +1,5 @@
 //CHAVE API NÃO DEVE ESTAR EXPOSTA NO GITHUB
-const API_KEY = "sk-GdJHYpEWVo5zXekRBiPMT3BlbkFJEa5r3WpsghR3AlvaE";
+const API_KEY = "sk-GdJHYpEWVo5zXekRBiPMT3BlbkFJEa5r3psghR3AlvaE";
 //CAPTURA DO BOTAO SUBMIT SETA
 const submitIcon = document.querySelector('#submit-icon');
 //CAPTURA A PERGUNTA DIGITADA PARA API
